@@ -38,12 +38,17 @@ Improve daily transportation by:
 
 ---
 
-## My Contribution
-- Organized requirements and clarified user needs
-- Created and refined Use Case, Sequence, and ERD diagrams
-- Structured the user flow and system logic
-- Validated scenarios and ensured consistency across documentation
+## ## My Contribution
+- Led the project analysis phase and identified the real transportation problem based on student daily challenges.
+- Conducted and documented user interviews, then converted findings into Personas, Scenarios, and clear User Stories.
+- Rewrote the functional/non-functional requirements to fix missing logic, contradictions, and unclear statements.
+- Designed the Use Case Model and refined it multiple times to accurately represent real user interactions.
+- Built the Sequence Diagrams and ensured they reflect correct system behavior and data flow.
+- Designed the ERD from scratch, defined table structures, keys, and relationships, and validated data consistency.
+- Standardized the document structure and ensured all diagrams, requirements, and user flows match each other.
+- Coordinated corrections across the team and maintained quality and consistency in the final deliverables.
+
 
 ---
 
-**Developed as part of the Software Engineering course, College of Computer Science and**
+**Developed as part of the Software Engineering course, College of Computer Science and Engineering, Umm Al-Qura University.**
