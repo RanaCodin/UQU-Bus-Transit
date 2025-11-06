@@ -1,4 +1,4 @@
-# UQU Uni Transit System
+# UQU Transit System
 
 UQU Uni Transit is a bus transportation management system designed for students at Umm Al-Qura University.  
 The system organizes bus schedules, routes, and seat reservations, providing a clear and efficient transportation experience.
